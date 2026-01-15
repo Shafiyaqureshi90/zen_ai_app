@@ -53,7 +53,7 @@ Here’s a **collage screenshot** showing all major components of Zen-AI in one 
 
 Clone the repo:
 ```bash
-git clone https://github.com/Abdullah-Arif-5065/zen_ai_app.git
+git clone https://github.com/Shafiyaqureshi90/zen_ai_app.git
 cd zen_ai_app
 pip install -r requirements.txt
 streamlit run app.py
