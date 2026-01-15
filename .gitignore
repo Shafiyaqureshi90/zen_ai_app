@@ -1,0 +1,29 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+zen_env/
+venv/
+
+# Model and Dataset Files
+*.h5
+*.csv
+*.mp4
+
+# Logs and Temp Files
+emotion.txt
+emotion_log.csv
+*.log
+
+# VSCode and other IDE folders
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
